@@ -1,0 +1,16 @@
+{
+    "name": "moiz2050/rbac",
+    "description": "Role Based Access Control for laravel 5.3",
+    "require": {
+        "php": "5.5.9",
+        "illuminate/support": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mueez Sattar Khan",
+            "email": "mueez@askfortask.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
