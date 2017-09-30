@@ -2,10 +2,10 @@
 
 namespace Moiz2050\Rbac\Models;
 
-use Bican\Roles\Traits\Slugable;
+use Moiz2050\Rbac\Traits\Slugable;
 use Illuminate\Database\Eloquent\Model;
-use Bican\Roles\Traits\PermissionHasRelations;
-use Bican\Roles\Contracts\PermissionHasRelations as PermissionHasRelationsContract;
+use Moiz2050\Rbac\Traits\PermissionHasRelations;
+use Moiz2050\Rbac\Contracts\PermissionHasRelations as PermissionHasRelationsContract;
 
 /**
  * Class Permission
